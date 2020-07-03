@@ -27,6 +27,6 @@ Steps:
 4. Change directory to cloned repository(local).
   > cd directory
 5. Run following command:
-  > pyinstall --onefile Bin2Dec.py
+  > pyinstaller --onefile Bin2Dec.py
   
 Executable will be present in **dist** directory.
